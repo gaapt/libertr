@@ -3,3 +3,6 @@ A modern survival guide for liberty-seekers
 
 
 ## Assumptions:
+
+
+#j
