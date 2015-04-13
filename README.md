@@ -12,3 +12,7 @@ A modern survival guide for liberty-seekers
 
 ### Review
   
+
+1. Item 1
+  1. A corollary to the above item.
+  2. Yet another point to consider.
