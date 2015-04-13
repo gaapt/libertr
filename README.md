@@ -9,5 +9,6 @@ A modern survival guide for liberty-seekers
   
 
 ## Introduction
-  ### Review
+
+### Review
   
