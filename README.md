@@ -8,7 +8,15 @@ A modern survival guide for liberty-seekers
     1. [Review](#review)
     2. [Assumptions](#assumptions)
     3. [Considerations](#considerations)
-  
+  2. [Threats to liberty](#threats)
+    1. War on Privacy
+    2. Physical Wars
+    3. Gun Control
+    4. War on Drugs
+    5. Political Correctness
+  3. [Achievements for Liberty](#past threats)
+    1. Drug legalization/decriminalization
+    2. Same-sex unions
 
 ## Introduction
 
