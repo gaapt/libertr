@@ -17,6 +17,11 @@ A modern survival guide for liberty-seekers
   3. [Achievements for Liberty](#past threats)
     1. Drug legalization/decriminalization
     2. Same-sex unions
+  4. [Finding Liberty](#finding liberty)
+    1. Substances
+    2. Hacking
+    3. Entrepreneurship
+    4. Politics
 
 ## Introduction
 
