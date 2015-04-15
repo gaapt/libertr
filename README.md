@@ -19,6 +19,16 @@ A modern survival guide for liberty-seekers
     2. Hacking
     3. Entrepreneurship
     4. Politics
+  4. [Related Projects](#related projects)
+    1. Internet
+    2. Technology
+    2. Politics
+    3. Media
+      1. Television
+      2. Movies
+      3. Music
+      4. Books
+
 
 ## Introduction
 
