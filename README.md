@@ -14,10 +14,7 @@ A modern survival guide for liberty-seekers
     3. Gun Control
     4. War on Drugs
     5. Political Correctness
-  3. [Achievements for Liberty](#past threats)
-    1. Drug legalization/decriminalization
-    2. Same-sex unions
-  4. [Finding Liberty](#finding liberty)
+  3. [Finding Liberty](#finding liberty)
     1. Substances
     2. Hacking
     3. Entrepreneurship
