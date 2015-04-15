@@ -28,6 +28,8 @@ A modern survival guide for liberty-seekers
       2. Movies
       3. Music
       4. Books
+  5. Prominent Figures(#prominent figures)
+  6. Contributing(#contributing)
 
 
 ## Introduction
