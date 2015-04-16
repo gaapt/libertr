@@ -85,3 +85,9 @@ A modern survival guide for liberty-seekers
 #### Movies
 
 #### Music
+
+#### Books
+
+## Prominent Figures
+
+## Contributing
