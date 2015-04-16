@@ -8,13 +8,13 @@ A modern survival guide for liberty-seekers
     1. [Review](#review)
     2. [Assumptions](#assumptions)
     3. [Considerations](#considerations)
-  2. [Threats to liberty](#threats to liberty)
-    1. [War on Privacy](#war on privacy)
-    2. [Physical Wars](#physical wars)
-    3. [Gun Control](#gun control)
-    4. [War on Drugs](#war on drugs)
-    5. [Political Correctness](#political correctness)
-  3. [Finding Liberty](#finding liberty)
+  2. [Threats to liberty](#threats-to-liberty)
+    1. [War on Privacy](#war-on-privacy)
+    2. [Physical Wars](#physical-wars)
+    3. [Gun Control](#gun-control)
+    4. [War on Drugs](#war-on-drugs)
+    5. [Political Correctness](#political-correctness)
+  3. [Finding Liberty](#finding-liberty)
     1. [Substances](#substances)
     2. [Hacking](#hacking)
     3. [Entrepreneurship](#entrepreneurship)
@@ -59,3 +59,29 @@ A modern survival guide for liberty-seekers
 ### War on Drugs
 
 ### Political Correctness
+
+## Finding Liberty
+
+### Substance
+
+### Hacking
+
+### Entrepreneurship
+
+### Politics
+
+## Related Projects
+
+### Internet
+
+### Technology
+
+### Politics
+
+### Media
+
+#### Television
+
+#### Movies
+
+#### Music
