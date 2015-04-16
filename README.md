@@ -8,8 +8,8 @@ A modern survival guide for liberty-seekers
     1. [Review](#review)
     2. [Assumptions](#assumptions)
     3. [Considerations](#considerations)
-  2. [Threats to liberty](#threats)
-    1. [War on Privacy](# war on privacy)
+  2. [Threats to liberty](#threats to liberty)
+    1. [War on Privacy](#war on privacy)
     2. [Physical Wars](#physical wars)
     3. [Gun Control](#gun control)
     4. [War on Drugs](#war on drugs)
@@ -48,3 +48,14 @@ A modern survival guide for liberty-seekers
   + As an early project, there might be unintended bias coming from early contributors. As it grows, we expect it to go away.
   + This project is currently focused on the reality of western countries(and affected countries). If it doesn't reflect your reality, feel free to fork it and make changes. In order to build a community around it, we'd appreciate to reference it to Libertr.
  
+## Threats to Liberty
+
+### War on Privacy
+
+### Physical Wars
+
+### Gun Control
+
+### War on Drugs
+
+### Political Correctness
