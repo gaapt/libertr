@@ -80,8 +80,8 @@ A modern survival guide for liberty-seekers
   + [WikiLeaks](https://wikileaks.org/)
 
 ### Technology
-
-### Politics
+  + [The Seastanding Institute](http://www.seasteading.org/)
+  + [SpaceX](http://www.spacex.com/)
 
 ### Media
 
