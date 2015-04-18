@@ -85,16 +85,19 @@ A modern survival guide for liberty-seekers
 
 ### Media
 
-#### Television
-
 #### Movies
   + [V for Vendetta](https://www.youtube.com/watch?v=KKvvOFIHs4k)
   + [Dallas Buyers Club](https://www.youtube.com/watch?v=U8utPuIFVnU)
   + [Fight Club](https://www.youtube.com/watch?v=SUXWAEX2jlg)
-
-#### Music
+  + [The Hunger Games](https://www.youtube.com/watch?v=4S9a5V9ODuY)
 
 #### Books
+  + [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+  + [Brave New World](http://en.wikipedia.org/wiki/Brave_New_World)
+  +  [Fahrenheit 451](http://en.wikipedia.org/wiki/Fahrenheit_451)
+  +  [Zero to One](http://en.wikipedia.org/wiki/Zero_to_One)
+  +  [Atlas Shrugged](http://en.wikipedia.org/wiki/Atlas_Shrugged)
+  +  [The Fountainhead](http://en.wikipedia.org/wiki/The_Fountainhead)
 
 ## Prominent Figures
 
