@@ -83,6 +83,9 @@ A modern survival guide for liberty-seekers
 #### Television
 
 #### Movies
+  + [V for Vendetta](https://www.youtube.com/watch?v=KKvvOFIHs4k)
+  + [Dallas Buyers Club](https://www.youtube.com/watch?v=U8utPuIFVnU)
+  + [Fight Club](https://www.youtube.com/watch?v=SUXWAEX2jlg)
 
 #### Music
 
