@@ -73,6 +73,11 @@ A modern survival guide for liberty-seekers
 ## Related Projects
 
 ### Internet
+  + [Bitcoin](https://bitcoin.org/en/)
+  + [Tor Project](https://www.torproject.org/)
+  + [I2P](https://geti2p.net/en/)
+  + [OpenBazaar](https://github.com/OpenBazaar/OpenBazaar)
+  + [WikiLeaks](https://wikileaks.org/)
 
 ### Technology
 
