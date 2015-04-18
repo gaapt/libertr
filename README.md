@@ -18,7 +18,6 @@ A modern survival guide for liberty-seekers
     1. [Substances](#substances)
     2. [Hacking](#hacking)
     3. [Entrepreneurship](#entrepreneurship)
-    4. [Politics](#politics)
   4. [Related Projects](#related projects)
     1. [Internet](#internet)
     2. [Technology](#technology)
