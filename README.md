@@ -49,8 +49,10 @@ A modern survival guide for liberty-seekers
 ### War on Privacy
 
 ### Physical Wars
-
-### Gun Control
+  + [NSA targets the privacy-conscious](http://daserste.ndr.de/panorama/aktuell/NSA-targets-the-privacy-conscious,nsa230.html)
+  + [Privacy is at a crossroads. Choose wisely.](https://medium.com/@yegg/privacy-is-at-a-crossroads-choose-wisely-96bac0644ec1)
+  + [Apple-Government Information Requests](http://www.apple.com/privacy/government-information-requests/)
+  + [Say Goodbye to Privacy](http://www.wired.com/2015/02/say-goodbye-to-privacy/)
 
 ### War on Drugs
 
