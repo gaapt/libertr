@@ -41,7 +41,6 @@ A modern survival guide for liberty-seekers
 
   + One undestands, seeks and appreaciates liberty
   + One believes in the modern excess of government
-  + One is willing not to be complacent
 
 ### Considerations
   + As an early project, there might be unintended bias coming from early contributors. As it grows, we expect it to go away.
@@ -63,11 +62,7 @@ A modern survival guide for liberty-seekers
 
 ### Substance
 
-### Hacking
-
-### Entrepreneurship
-
-### Politics
+### Hacking/Entrepreneurship
 
 ## Related Projects
 
