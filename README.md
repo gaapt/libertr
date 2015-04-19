@@ -99,5 +99,11 @@ A modern survival guide for liberty-seekers
   +  [The Fountainhead](http://en.wikipedia.org/wiki/The_Fountainhead)
 
 ## Prominent Figures
-
+ + [John Locke](http://en.wikipedia.org/wiki/John_Locke)
+ + [Friedrich Hayek](http://en.wikipedia.org/wiki/Friedrich_Hayek)]
+ + [Milton Friedman](http://en.wikipedia.org/wiki/Milton_Friedman)
+ + [Ayn Rand](http://en.wikipedia.org/wiki/Ayn_Rand)
+ + [Ron Paul](http://en.wikipedia.org/wiki/Ron_Paul)
+ + [Julian Assenge](http://en.wikipedia.org/wiki/Julian_Assange)
+ + [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden)
 ## Contributing
