@@ -62,6 +62,10 @@ A modern survival guide for liberty-seekers
 
 
 ### Hacking/Entrepreneurship
+  + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+  + [You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)
+  + [The Education of a Libertarian](http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
+
 
 ## Related Projects
 
