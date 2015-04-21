@@ -14,9 +14,9 @@ A modern survival guide for liberty-seekers
     3. [War on Drugs](#war-on-drugs)
     4. [Political Correctness](#political-correctness)
   3. [Finding Liberty](#finding-liberty)
-    1. [Hacking](#hacking)
-    2. [Entrepreneurship](#entrepreneurship)
-  4. [Related Projects](#related projects)
+    1. [Hacking/Entrepreneurship](#hacking)
+    2. 
+  4. [Liberty Related Projects](#related projects)
     1. [Internet](#internet)
     2. [Technology](#technology)
     3. [Media](#media)
@@ -59,16 +59,13 @@ A modern survival guide for liberty-seekers
 ### Political Correctness
 
 ## Finding Liberty
-
-
-### Hacking/Entrepreneurship
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
   + [You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)
   + [The Education of a Libertarian](http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian)
+  + [The Crypto Anarchist Manifesto](http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 
 
-## Related Projects
-
+## Liberty Related Projects
 ### Internet
   + [Bitcoin](https://bitcoin.org/en/)
   + [Tor Project](https://www.torproject.org/)
