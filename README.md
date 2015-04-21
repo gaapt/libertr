@@ -10,9 +10,7 @@ A modern survival guide for liberty-seekers
     3. [Considerations](#considerations)
   2. [Threats to liberty](#threats-to-liberty)
     1. [War on Privacy](#war-on-privacy)
-    2. [Physical Wars](#physical-wars)
-    3. [War on Drugs](#war-on-drugs)
-    4. [Political Correctness](#political-correctness)
+    2. [Political Correctness](#political-correctness)
   3. [Finding Liberty](#finding-liberty)
     1. [Hacking/Entrepreneurship](#hacking)
   4. [Liberty Related Projects](#related projects)
@@ -20,7 +18,6 @@ A modern survival guide for liberty-seekers
     2. [Technology](#technology)
     3. [Movies](#movies)
     4. [Books](#books)
-   
   5. [Prominent Figures](#prominent figures)
   6. [Contributing](#contributing)
 
@@ -100,3 +97,8 @@ A modern survival guide for liberty-seekers
  + [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden)
  
 ## Contributing
+This project seeks decentralization and,therefore , we encourage every liberty-seeker to contribute. 
+
+Although we don't impose it, we'd appreciate if contributors avoided arguing semantics and added as much content as possible.
+
+Feel free to fork it, add more links/texts/... and submit a pull request. We're looking forward to expand our community as much as possible.
