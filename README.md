@@ -14,9 +14,8 @@ A modern survival guide for liberty-seekers
     3. [War on Drugs](#war-on-drugs)
     4. [Political Correctness](#political-correctness)
   3. [Finding Liberty](#finding-liberty)
-    1. [Substances](#substances)
-    2. [Hacking](#hacking)
-    3. [Entrepreneurship](#entrepreneurship)
+    1. [Hacking](#hacking)
+    2. [Entrepreneurship](#entrepreneurship)
   4. [Related Projects](#related projects)
     1. [Internet](#internet)
     2. [Technology](#technology)
@@ -61,7 +60,6 @@ A modern survival guide for liberty-seekers
 
 ## Finding Liberty
 
-### Substance
 
 ### Hacking/Entrepreneurship
 
@@ -73,6 +71,8 @@ A modern survival guide for liberty-seekers
   + [I2P](https://geti2p.net/en/)
   + [OpenBazaar](https://github.com/OpenBazaar/OpenBazaar)
   + [WikiLeaks](https://wikileaks.org/)
+  + [Tails](https://tails.boum.org/)
+  + [DuckDuckGo](https://duckduckgo.com/)
 
 ### Technology
   + [The Seastanding Institute](http://www.seasteading.org/)
