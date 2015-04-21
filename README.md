@@ -15,15 +15,12 @@ A modern survival guide for liberty-seekers
     4. [Political Correctness](#political-correctness)
   3. [Finding Liberty](#finding-liberty)
     1. [Hacking/Entrepreneurship](#hacking)
-    2. 
   4. [Liberty Related Projects](#related projects)
     1. [Internet](#internet)
     2. [Technology](#technology)
-    3. [Media](#media)
-      1. [Television](#television)
-      2. [Movies](#movies)
-      3. [Music](#music)
-      4. [Books](#books)
+    3. [Movies](#movies)
+    4. [Books](#books)
+   
   5. [Prominent Figures](#prominent figures)
   6. [Contributing](#contributing)
 
