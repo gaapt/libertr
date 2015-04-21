@@ -79,15 +79,13 @@ A modern survival guide for liberty-seekers
   + [The Seastanding Institute](http://www.seasteading.org/)
   + [SpaceX](http://www.spacex.com/)
 
-### Media
-
-#### Movies
+### Movies
   + [V for Vendetta](https://www.youtube.com/watch?v=KKvvOFIHs4k)
   + [Dallas Buyers Club](https://www.youtube.com/watch?v=U8utPuIFVnU)
   + [Fight Club](https://www.youtube.com/watch?v=SUXWAEX2jlg)
   + [The Hunger Games](https://www.youtube.com/watch?v=4S9a5V9ODuY)
 
-#### Books
+### Books
   + [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
   + [Brave New World](http://en.wikipedia.org/wiki/Brave_New_World)
   +  [Fahrenheit 451](http://en.wikipedia.org/wiki/Fahrenheit_451)
