@@ -46,8 +46,6 @@ A modern survival guide for liberty-seekers
   + [Apple-Government Information Requests](http://www.apple.com/privacy/government-information-requests/)
   + [Say Goodbye to Privacy](http://www.wired.com/2015/02/say-goodbye-to-privacy/)
   + [The U.S. Crackdown on Hackers Is Our New War on Drugs](http://www.wired.com/2014/01/using-computer-drug-war-decade-dangerous-excessive-punishment-consequences/)
-
-### War on Drugs
   + [AT&T gives DEA 26 years of phone call records to wage war on drugs](http://www.theatlantic.com/national/archive/2010/05/this-is-your-war-on-drugs/56380/)
 
 ### Political Correctness
