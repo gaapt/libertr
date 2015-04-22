@@ -49,6 +49,8 @@ A modern survival guide for liberty-seekers
   + [AT&T gives DEA 26 years of phone call records to wage war on drugs](http://www.theatlantic.com/national/archive/2010/05/this-is-your-war-on-drugs/56380/)
 
 ### Political Correctness
+  + [Rick & Morty - Retarded ](https://www.youtube.com/watch?v=eOBoKxEcVAA)
+  + [#Equality](https://www.youtube.com/watch?v=XM-HJT8_esM)
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
