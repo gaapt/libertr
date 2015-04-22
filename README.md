@@ -51,6 +51,7 @@ A modern survival guide for liberty-seekers
 ### Political Correctness
   + [Rick & Morty - Retarded ](https://www.youtube.com/watch?v=eOBoKxEcVAA)
   + [#Equality](https://www.youtube.com/watch?v=XM-HJT8_esM)
+  + [Institutions of Higher Indoctrination](https://www.youtube.com/watch?v=-jEQYHAFfjg)
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
