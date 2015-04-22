@@ -30,7 +30,7 @@ A modern survival guide for liberty-seekers
   
 ### Assumptions
 
-  + One undestands, seeks and appreaciates liberty
+  + One undestands, seeks and appreciates liberty
   + One believes in the modern excess of government
 
 ### Considerations
