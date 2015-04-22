@@ -102,7 +102,7 @@ This project seeks decentralization and,therefore , we encourage every liberty-s
 
 Although we don't impose it, we'd appreciate if contributors avoided arguing semantics and added as much content as possible.
 
-Feel free to fork it, add more links/texts/... and submit a pull request. We're looking forward to expand our community as much as possible.
+Feel free to fork it, add more links/texts/... and submit a pull request. 
 ____________________
 
 ![](http://i.imgur.com/PMX3Yma.gif)
