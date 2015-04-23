@@ -78,6 +78,7 @@ A modern survival guide for liberty-seekers
   + [Equilibrium](https://www.youtube.com/watch?v=N7MMxM_jV7g)
   + [Brazil](https://www.youtube.com/watch?v=XmSBtDLgBSQ)
   + [Minority Report](https://www.youtube.com/watch?v=0nFxZipsiOM)
+  + [Enemy of the State](https://www.youtube.com/watch?v=AoNT6u3mQew)
 
 ### Books
   + [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
@@ -86,6 +87,7 @@ A modern survival guide for liberty-seekers
   +  [Zero to One](http://en.wikipedia.org/wiki/Zero_to_One)
   +  [Atlas Shrugged](http://en.wikipedia.org/wiki/Atlas_Shrugged)
   +  [The Fountainhead](http://en.wikipedia.org/wiki/The_Fountainhead)
+  +  [A Doll's House](http://en.wikipedia.org/wiki/A_Doll%27s_House)
 
 ## Prominent Figures
  + [John Locke](http://en.wikipedia.org/wiki/John_Locke)
