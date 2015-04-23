@@ -48,11 +48,6 @@ A modern survival guide for liberty-seekers
   + [The U.S. Crackdown on Hackers Is Our New War on Drugs](http://www.wired.com/2014/01/using-computer-drug-war-decade-dangerous-excessive-punishment-consequences/)
   + [AT&T gives DEA 26 years of phone call records to wage war on drugs](http://www.theatlantic.com/national/archive/2010/05/this-is-your-war-on-drugs/56380/)
 
-### Political Correctness
-  + [Rick & Morty - Retarded ](https://www.youtube.com/watch?v=eOBoKxEcVAA)
-  + [#Equality](https://www.youtube.com/watch?v=XM-HJT8_esM)
-  + [Institutions of Higher Indoctrination](https://www.youtube.com/watch?v=-jEQYHAFfjg)
-
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
   + [You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)
@@ -91,7 +86,6 @@ A modern survival guide for liberty-seekers
 ## Prominent Figures
  + [John Locke](http://en.wikipedia.org/wiki/John_Locke)
  + [Friedrich Hayek](http://en.wikipedia.org/wiki/Friedrich_Hayek)
- + [Milton Friedman](http://en.wikipedia.org/wiki/Milton_Friedman)
  + [Ayn Rand](http://en.wikipedia.org/wiki/Ayn_Rand)
  + [Ron Paul](http://en.wikipedia.org/wiki/Ron_Paul)
  + [Julian Assenge](http://en.wikipedia.org/wiki/Julian_Assange)
