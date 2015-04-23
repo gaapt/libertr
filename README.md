@@ -1,5 +1,5 @@
 # Libertr
-A modern survival guide for liberty-seekers
+Resources for modern liberty seekers
 
 
 ## Table of contents:
