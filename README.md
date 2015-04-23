@@ -26,7 +26,7 @@ A modern survival guide for liberty-seekers
 
 ### Review
 
-  This is a manual for the modern liberty-seeker individual. Based on consensus, decentralization and rationality, it tries to describe realities and solutions for one's life.
+  This is a manual for the modern liberty-seeker individual. Based on consensus, decentralization and rationality, it tries to provide resources to help one understand his/her surroundings
   
 ### Assumptions
 
