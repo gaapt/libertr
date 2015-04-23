@@ -74,6 +74,10 @@ A modern survival guide for liberty-seekers
   + [Dallas Buyers Club](https://www.youtube.com/watch?v=U8utPuIFVnU)
   + [Fight Club](https://www.youtube.com/watch?v=SUXWAEX2jlg)
   + [The Hunger Games](https://www.youtube.com/watch?v=4S9a5V9ODuY)
+  + [The Great Dictator](https://www.youtube.com/watch?v=wYDf_Y_f5HM)
+  + [Equilibrium](https://www.youtube.com/watch?v=N7MMxM_jV7g)
+  + [Brazil](https://www.youtube.com/watch?v=XmSBtDLgBSQ)
+  + [Minority Report](https://www.youtube.com/watch?v=0nFxZipsiOM)
 
 ### Books
   + [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
