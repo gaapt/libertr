@@ -48,6 +48,7 @@ Resources for modern liberty seekers
   + [The U.S. Crackdown on Hackers Is Our New War on Drugs](http://www.wired.com/2014/01/using-computer-drug-war-decade-dangerous-excessive-punishment-consequences/)
   + [AT&T gives DEA 26 years of phone call records to wage war on drugs](http://www.theatlantic.com/national/archive/2010/05/this-is-your-war-on-drugs/56380/)
   + [Declassified Report Shows Doubts About Value of N.S.A.’s Warrantless Spying ](http://www.nytimes.com/2015/04/25/us/politics/value-of-nsa-warrantless-spying-is-doubted-in-declassified-reports.html?_r=1)
+  + [China rates its own citizens](http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/)
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
