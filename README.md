@@ -67,6 +67,7 @@ Resources for modern liberty seekers
   + [WikiLeaks](https://wikileaks.org/)
   + [Tails](https://tails.boum.org/)
   + [DuckDuckGo](https://duckduckgo.com/)
+  + [Vault](https://hashicorp.com/blog/vault.html)
 
 ### Technology
   + [The Seastanding Institute](http://www.seasteading.org/)
