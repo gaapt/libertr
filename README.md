@@ -49,6 +49,7 @@ Resources for modern liberty seekers
   + [AT&T gives DEA 26 years of phone call records to wage war on drugs](http://www.theatlantic.com/national/archive/2010/05/this-is-your-war-on-drugs/56380/)
   + [Declassified Report Shows Doubts About Value of N.S.A.’s Warrantless Spying ](http://www.nytimes.com/2015/04/25/us/politics/value-of-nsa-warrantless-spying-is-doubted-in-declassified-reports.html?_r=1)
   + [China rates its own citizens](http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/)
+  + [Surveillance forces journalists to think and act like spies](https://cpj.org/2015/04/attacks-on-the-press-surveillance-forces-journalists-to-think-act-like-spies.php)
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
