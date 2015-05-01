@@ -21,7 +21,8 @@ Resources for modern liberty seekers
     4. [Books](#books)
     5. [Social](#social)
   5. [Prominent Figures](#prominent figures)
-  6. [Contributing](#contributing)
+  6. [Institutions](#institutions)
+  7. [Contributing](#contributing)
 
 
 ## Introduction
@@ -116,6 +117,14 @@ Resources for modern liberty seekers
  + [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden)
  + [Peter Schiff](http://en.wikipedia.org/wiki/Peter_Schiff)
  
+## Institutions
+  + [Ludwig von Mises Institute](https://mises.org/)
+  + [Cato Institute](www.cato.org/)
+  + [The Federalist Society](http://www.fed-soc.org/)
+  + [The Atlas Society](http://www.atlassociety.org/)
+  + [Fraser Institute](http://www.fraserinstitute.org/)
+  + [Liberty Fund](http://www.libertyfund.org/)
+
 ## Contributing
 This project seeks decentralization and,therefore , we encourage every liberty-seeker to contribute. 
 
