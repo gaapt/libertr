@@ -84,6 +84,7 @@ Resources for modern liberty seekers
   + [Brazil](https://www.youtube.com/watch?v=XmSBtDLgBSQ)
   + [Minority Report](https://www.youtube.com/watch?v=0nFxZipsiOM)
   + [Enemy of the State](https://www.youtube.com/watch?v=AoNT6u3mQew)
+  + [One Flew Over the Cuckoo's Nest](https://www.youtube.com/watch?v=2WSyJgydTsA)
 
 ### Books
   + [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
