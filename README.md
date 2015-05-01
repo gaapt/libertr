@@ -18,6 +18,7 @@ Resources for modern liberty seekers
     2. [Technology](#technology)
     3. [Movies](#movies)
     4. [Books](#books)
+    5. [Social](#social)
   5. [Prominent Figures](#prominent figures)
   6. [Contributing](#contributing)
 
@@ -94,6 +95,9 @@ Resources for modern liberty seekers
   +  [Atlas Shrugged](http://en.wikipedia.org/wiki/Atlas_Shrugged)
   +  [The Fountainhead](http://en.wikipedia.org/wiki/The_Fountainhead)
   +  [A Doll's House](http://en.wikipedia.org/wiki/A_Doll%27s_House)
+
+### Social
+
 
 ## Prominent Figures
  + [John Locke](http://en.wikipedia.org/wiki/John_Locke)
