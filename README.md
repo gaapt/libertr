@@ -10,7 +10,8 @@ Resources for modern liberty seekers
     3. [Considerations](#considerations)
   2. [Threats to liberty](#threats-to-liberty)
     1. [War on Privacy](#war-on-privacy)
-    2. [Political Correctness](#political-correctness)
+    2. [War on Drugs]()
+    3. [Political Correctness](#political-correctness)
   3. [Finding Liberty](#finding-liberty)
     1. [Hacking/Entrepreneurship](#hacking)
   4. [Liberty Related Projects](#related projects)
@@ -52,6 +53,11 @@ Resources for modern liberty seekers
   + [China rates its own citizens](http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/)
   + [Surveillance forces journalists to think and act like spies](https://cpj.org/2015/04/attacks-on-the-press-surveillance-forces-journalists-to-think-act-like-spies.php)
   + [Hacker In Trouble With Feds After Tweeting About 'Playing' With Plane ](http://www.forbes.com/sites/thomasbrewster/2015/04/17/hacker-tweets-about-hacking-plane-gets-computers-seized/)
+
+
+### War on Drugs
+  +[The wars don’t work](http://www.economist.com/news/leaders/21650112-one-war-drugs-ends-another-starting-it-will-be-failure-too-wars-dont-work?fsrc=nlw|hig|30-04-2015|NA)
+
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
