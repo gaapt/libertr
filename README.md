@@ -114,6 +114,7 @@ Resources for modern liberty seekers
  + [Ron Paul](http://en.wikipedia.org/wiki/Ron_Paul)
  + [Julian Assenge](http://en.wikipedia.org/wiki/Julian_Assange)
  + [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden)
+ + [Peter Schiff](http://en.wikipedia.org/wiki/Peter_Schiff)
  
 ## Contributing
 This project seeks decentralization and,therefore , we encourage every liberty-seeker to contribute. 
