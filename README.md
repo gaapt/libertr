@@ -102,6 +102,7 @@ Resources for modern liberty seekers
   + [Atlas Shrugged](http://en.wikipedia.org/wiki/Atlas_Shrugged)
   + [The Fountainhead](http://en.wikipedia.org/wiki/The_Fountainhead)
   + [A Doll's House](http://en.wikipedia.org/wiki/A_Doll%27s_House)
+  + [Animal Farm](http://en.wikipedia.org/wiki/Animal_Farm)
 
 ### Social
   + [Liberland](http://liberland.org/)
