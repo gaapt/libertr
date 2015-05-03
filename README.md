@@ -57,7 +57,8 @@ Resources for modern liberty seekers
 
 
 ### War on Drugs
-  +[The wars don’t work](http://www.economist.com/news/leaders/21650112-one-war-drugs-ends-another-starting-it-will-be-failure-too-wars-dont-work?fsrc=nlw|hig|30-04-2015|NA)
+  + [The wars don’t work](http://www.economist.com/news/leaders/21650112-one-war-drugs-ends-another-starting-it-will-be-failure-too-wars-dont-work?fsrc=nlw|hig|30-04-2015|NA)
+  + [The World Health Organization calls for the decriminalisation of drug use](http://www.tdpf.org.uk/blog/world-health-organization-calls-decriminalisation-drug-use)
 
 
 ## Finding Liberty
