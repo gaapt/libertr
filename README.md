@@ -117,6 +117,7 @@ Resources for modern liberty seekers
  + [Julian Assenge](http://en.wikipedia.org/wiki/Julian_Assange)
  + [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden)
  + [Peter Schiff](http://en.wikipedia.org/wiki/Peter_Schiff)
+ + [George Orwell](http://en.wikipedia.org/wiki/George_Orwell)
  
 ## Institutions
   + [Ludwig von Mises Institute](https://mises.org/)
