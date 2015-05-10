@@ -61,6 +61,7 @@ Resources for modern liberty seekers
   + [The World Health Organization calls for the decriminalisation of drug use](http://www.tdpf.org.uk/blog/world-health-organization-calls-decriminalisation-drug-use)
 
 ### Political Correctness
+  + [ Warren Farrell protest at University of Toronto](https://www.youtube.com/watch?v=iARHCxAMAO0)
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
