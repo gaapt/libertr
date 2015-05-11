@@ -111,6 +111,7 @@ Resources for modern liberty seekers
 
 ### Social
   + [Liberland](http://liberland.org/)
+  + [The Seastanding Institute](http://www.seasteading.org/)
   
 
 
