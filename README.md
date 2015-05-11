@@ -125,6 +125,7 @@ Resources for modern liberty seekers
  + [Peter Schiff](http://en.wikipedia.org/wiki/Peter_Schiff)
  + [George Orwell](http://en.wikipedia.org/wiki/George_Orwell)
  + [Milton Friedman](http://en.wikipedia.org/wiki/Milton_Friedman)
+ + [Ludwig Von Mises](http://en.wikipedia.org/wiki/Ludwig_von_Mises)
  
 ## Institutions
   + [Ludwig von Mises Institute](https://mises.org/)
