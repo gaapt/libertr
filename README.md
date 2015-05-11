@@ -97,6 +97,7 @@ Resources for modern liberty seekers
   + [Enemy of the State](https://www.youtube.com/watch?v=AoNT6u3mQew)
   + [One Flew Over the Cuckoo's Nest](https://www.youtube.com/watch?v=2WSyJgydTsA)
   + [My Dinner With Andre](https://www.youtube.com/watch?v=NVr0UucAzM4)
+  + [Citizenfour](https://www.youtube.com/watch?v=XiGwAvd5mvM)
 
 ### Books
   + [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
