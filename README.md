@@ -54,6 +54,7 @@ Resources for modern liberty seekers
   + [China rates its own citizens](http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/)
   + [Surveillance forces journalists to think and act like spies](https://cpj.org/2015/04/attacks-on-the-press-surveillance-forces-journalists-to-think-act-like-spies.php)
   + [Hacker In Trouble With Feds After Tweeting About 'Playing' With Plane ](http://www.forbes.com/sites/thomasbrewster/2015/04/17/hacker-tweets-about-hacking-plane-gets-computers-seized/)
+  + [Don't text 'beer' in Korea: Words that trigger teen alerts](http://www.news-herald.com/general-news/20150515/dont-text-beer-in-korea-words-that-trigger-teen-alerts)
 
 
 ### War on Drugs
