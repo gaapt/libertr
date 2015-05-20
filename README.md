@@ -12,6 +12,7 @@ Resources for modern liberty seekers
     1. [War on Privacy](#war-on-privacy)
     2. [War on Drugs]()
     3. [Political Correctness](#political-correctness)
+    4. [Police](#police)
   3. [Finding Liberty](#finding-liberty)
     1. [Hacking/Entrepreneurship](#hacking)
   4. [Liberty Related Projects](#related projects)
@@ -64,6 +65,9 @@ Resources for modern liberty seekers
 ### Freedom of Speech
   + [ Warren Farrell protest at University of Toronto](https://www.youtube.com/watch?v=iARHCxAMAO0)
   + [Thoughtcrime](http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html)
+
+### Police
+  + [Policing, Mass Imprisonment, and the Failure of American Lawyers](http://harvardlawreview.org/2015/04/policing-mass-imprisonment-and-the-failure-of-american-lawyers/)
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
