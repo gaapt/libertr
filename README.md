@@ -65,6 +65,7 @@ Resources for modern liberty seekers
 ### Freedom of Speech
   + [ Warren Farrell protest at University of Toronto](https://www.youtube.com/watch?v=iARHCxAMAO0)
   + [Thoughtcrime](http://www.antipope.org/charlie/blog-static/2015/05/thoughtcrime.html)
+  + [Reddit CEO Ellen Pao: 'It's not our site's goal to be a completely free-speech platform'](http://www.businessinsider.com/reddit-ceo-ellen-pao-its-not-our-sites-goal-to-be-a-completely-free-speech-platform-2015-5)
 
 ### Police
   + [Policing, Mass Imprisonment, and the Failure of American Lawyers](http://harvardlawreview.org/2015/04/policing-mass-imprisonment-and-the-failure-of-american-lawyers/)
