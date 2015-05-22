@@ -21,6 +21,7 @@ Resources for modern liberty seekers
     3. [Movies](#movies)
     4. [Books](#books)
     5. [Social](#social)
+    6. [Essays](#essays)
   5. [Prominent Figures](#prominent figures)
   6. [Institutions](#institutions)
   7. [Contributing](#contributing)
@@ -119,7 +120,9 @@ Resources for modern liberty seekers
 ### Social
   + [Liberland](http://liberland.org/)
   + [The Seastanding Institute](http://www.seasteading.org/)
-  
+
+### Essays
+  + [The End of History?](http://www.wesjones.com/eoh.htm)
 
 
 ## Prominent Figures
