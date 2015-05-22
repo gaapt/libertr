@@ -136,6 +136,7 @@ Resources for modern liberty seekers
  + [George Orwell](http://en.wikipedia.org/wiki/George_Orwell)
  + [Milton Friedman](http://en.wikipedia.org/wiki/Milton_Friedman)
  + [Ludwig Von Mises](http://en.wikipedia.org/wiki/Ludwig_von_Mises)
+ + [Friedrich Nietzsche](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)
  
 ## Institutions
   + [Ludwig von Mises Institute](https://mises.org/)
