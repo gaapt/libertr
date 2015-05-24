@@ -2,6 +2,7 @@
 Resources for modern liberty seekers
 
 
+
 ## Table of contents:
 
   1. [Introduction](#introduction)
@@ -28,6 +29,8 @@ Resources for modern liberty seekers
 
 
 ## Introduction
+
+![](http://www.reaxxion.com/wp-content/uploads/2014/12/RedPill_hand.jpg)
 
 ### Review
 
