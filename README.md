@@ -73,6 +73,7 @@ Resources for modern liberty seekers
 
 ### Police
   + [Policing, Mass Imprisonment, and the Failure of American Lawyers](http://harvardlawreview.org/2015/04/policing-mass-imprisonment-and-the-failure-of-american-lawyers/)
+  + [Police Raid 9-Year-Old Pirate Bay Girl, Confiscate Winnie The Pooh Laptop](http://torrentfreak.com/police-raid-9-year-old-pirate-bay-girl-confiscate-winnie-the-pooh-laptop-121122/)
 
 ## Finding Liberty
   + [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
