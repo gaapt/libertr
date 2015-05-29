@@ -158,4 +158,3 @@ Although we don't impose it, we'd appreciate if contributors avoided arguing sem
 Feel free to fork it, add more links/texts/... and submit a pull request. 
 ____________________
 
-![](http://i.imgur.com/PMX3Yma.gif)
