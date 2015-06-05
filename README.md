@@ -141,6 +141,7 @@ Resources for modern liberty seekers
  + [Milton Friedman](http://en.wikipedia.org/wiki/Milton_Friedman)
  + [Ludwig Von Mises](http://en.wikipedia.org/wiki/Ludwig_von_Mises)
  + [Friedrich Nietzsche](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)
+ + [Martin Heidegger](http://en.wikipedia.org/wiki/Martin_Heidegger)
  
 ## Institutions
   + [Ludwig von Mises Institute](https://mises.org/)
