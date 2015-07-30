@@ -127,7 +127,6 @@ Resources for modern liberty seekers
   + [The Seastanding Institute](http://www.seasteading.org/)
 
 ### Essays
-  + [The End of History?](http://www.wesjones.com/eoh.htm)
 
 
 ## Prominent Figures
