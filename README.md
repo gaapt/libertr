@@ -60,6 +60,7 @@ Resources for modern liberty seekers
   + [Hacker In Trouble With Feds After Tweeting About 'Playing' With Plane ](http://www.forbes.com/sites/thomasbrewster/2015/04/17/hacker-tweets-about-hacking-plane-gets-computers-seized/)
   + [Don't text 'beer' in Korea: Words that trigger teen alerts](http://www.news-herald.com/general-news/20150515/dont-text-beer-in-korea-words-that-trigger-teen-alerts)
   + [Privacy Behaviors After Snowden](http://m.cacm.acm.org/magazines/2015/5/186025-privacy-behaviors-after-snowden/fulltext)
+  + [AT&T has a fiberoptic splitter copying our data to NSA](https://www.eff.org/nsa-spying)
 
 
 ### War on Drugs
