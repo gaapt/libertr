@@ -127,35 +127,8 @@ Resources for modern liberty seekers
   + [Liberland](http://liberland.org/)
   + [The Seastanding Institute](http://www.seasteading.org/)
 
-### Essays
-
-
-## Prominent Figures
- + [John Locke](http://en.wikipedia.org/wiki/John_Locke)
- + [Friedrich Hayek](http://en.wikipedia.org/wiki/Friedrich_Hayek)
- + [Ayn Rand](http://en.wikipedia.org/wiki/Ayn_Rand)
- + [Ron Paul](http://en.wikipedia.org/wiki/Ron_Paul)
- + [Julian Assenge](http://en.wikipedia.org/wiki/Julian_Assange)
- + [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden)
- + [Peter Schiff](http://en.wikipedia.org/wiki/Peter_Schiff)
- + [George Orwell](http://en.wikipedia.org/wiki/George_Orwell)
- + [Milton Friedman](http://en.wikipedia.org/wiki/Milton_Friedman)
- + [Ludwig Von Mises](http://en.wikipedia.org/wiki/Ludwig_von_Mises)
- + [Friedrich Nietzsche](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)
- + [Martin Heidegger](http://en.wikipedia.org/wiki/Martin_Heidegger)
- 
-## Institutions
-  + [Ludwig von Mises Institute](https://mises.org/)
-  + [Cato Institute](www.cato.org/)
-  + [The Federalist Society](http://www.fed-soc.org/)
-  + [The Atlas Society](http://www.atlassociety.org/)
-  + [Fraser Institute](http://www.fraserinstitute.org/)
-  + [Liberty Fund](http://www.libertyfund.org/)
-
 ## Contributing
-This project seeks decentralization and,therefore , we encourage every liberty-seeker to contribute. 
-
-Although we don't impose it, we'd appreciate if contributors avoided arguing semantics and added as much content as possible.
+This project seeks decentralization and, therefore , we encourage anyone to contribute. 
 
 Feel free to fork it, add more links/texts/... and submit a pull request. 
 ____________________
